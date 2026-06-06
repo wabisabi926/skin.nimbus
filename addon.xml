@@ -25,8 +25,10 @@
 		<summary lang="en_GB">Nimbus skin by Ivar Brandt</summary>
 		<summary lang="en_NZ">Nimbus skin by Ivar Brandt</summary>
 		<summary lang="en_US">Nimbus skin by Ivar Brandt</summary>
+		<summary lang="zh_CN">Nimbus 皮肤，作者：Ivar Brandt</summary>
 		<description lang="en_GB">Nimbus Skin</description>
 		<description lang="en_NZ">Nimbus Skin</description>
 		<description lang="en_US">Nimbus Skin</description>
+		<description lang="zh_CN">Nimbus 皮肤</description>
 	</extension>
 </addon>
