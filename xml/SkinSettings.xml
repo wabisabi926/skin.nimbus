@@ -1100,31 +1100,31 @@
 					</item>
 					<item id="5">
 						<!-- <label>$LOCALIZE[128]</label> -->
-						<label>General configuration</label>
+						<label>$LOCALIZE[31203]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="9">
-						<label>Widget options</label>
+						<label>$LOCALIZE[31204]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="2">
-						<label>Customization</label>
+						<label>$LOCALIZE[31205]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="6">
-						<label>Artwork display</label>
+						<label>$LOCALIZE[31206]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="4">
-						<label>Ratings management</label>
+						<label>$LOCALIZE[31207]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="8">
-						<label>Trailer setup</label>
+						<label>$LOCALIZE[31208]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="3">
-						<label>Search options</label>
+						<label>$LOCALIZE[31209]</label>
 						<onclick>noop</onclick>
 					</item>
 					<item id="7">
@@ -1132,7 +1132,7 @@
 						<onclick>noop</onclick>
 					</item>
 					<item id="10">
-						<label>Extras</label>
+						<label>$LOCALIZE[31210]</label>
 						<onclick>noop</onclick>
 					</item>
 				</content>

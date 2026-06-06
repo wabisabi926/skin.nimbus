@@ -89,7 +89,7 @@
               <property name="id">cast</property>
             </item>
             <item>
-              <label>Info</label>
+              <label>$LOCALIZE[31333]</label>
               <property name="id">moreinfo</property>
             </item>
             <item>

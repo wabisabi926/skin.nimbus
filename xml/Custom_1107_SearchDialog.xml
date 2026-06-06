@@ -28,7 +28,7 @@
 				<include>ButtonMenuList</include>
 				<content>
 					<item>
-						<label>Movies</label>
+						<label>$LOCALIZE[31290]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),0)">ActivateWindow(Videos,"plugin://plugin.video.fen/?mode=history.search&amp;action=movie",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),1)">ActivateWindow(Videos,"plugin://plugin.video.fenlight/?action=movie&amp;mode=navigator.search_history&amp;name=Movies",return)</onclick>
@@ -46,20 +46,20 @@
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=showsSearchResults",return)</onclick>
 					</item>
 					<item>
-						<label>Anime</label>
+						<label>$LOCALIZE[31334]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),1)">ActivateWindow(Videos,"plugin://plugin.video.fenlight/?action=anime&amp;mode=navigator.search_history&amp;name=Search%20History%20Anime",return)</onclick>
 						<visible>String.IsEqual(Skin.String(current_search_provider),1)</visible>
 					</item>
 					<item>
-						<label>Movie Collections</label>
+						<label>$LOCALIZE[31335]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),0)">ActivateWindow(Videos,"plugin://plugin.video.fen/?mode=history.search&amp;action=tmdb_movie_sets",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=tmdb_collections&amp;mode=search_history",return)</onclick>
 						<visible>String.IsEqual(Skin.String(current_search_provider),0) | String.IsEqual(Skin.String(current_search_provider),3)</visible>
 					</item>
 					<item>
-						<label>Actors/Actresses</label>
+						<label>$LOCALIZE[31336]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),0)">ActivateWindow(Videos,"plugin://plugin.video.fen/?mode=history.search&amp;action=people",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),1)">ActivateWindow(Videos,"plugin://plugin.video.fenlight/?action=people&amp;mode=navigator.search_history&amp;name=People",return)</onclick>
@@ -67,13 +67,13 @@
 						<visible>String.IsEqual(Skin.String(current_search_provider),0) | String.IsEqual(Skin.String(current_search_provider),1) | String.IsEqual(Skin.String(current_search_provider),3)</visible>
 					</item>
 					<!-- <item>
-						<label>Actors/Actresses (Movies)</label>
+						<label>$LOCALIZE[31337]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tools_search",return)</onclick>
 						<visible>String.IsEqual(Skin.String(current_search_provider),2)</visible>
 					</item>
 					<item>
-						<label>Actors/Actresses (TV Shows)</label>
+						<label>$LOCALIZE[31338]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tools_search",return)</onclick>
 						<visible>String.IsEqual(Skin.String(current_search_provider),2)</visible>
@@ -95,7 +95,7 @@
 						<visible>String.IsEqual(Skin.String(current_search_provider),0) | String.IsEqual(Skin.String(current_search_provider),1) | String.IsEqual(Skin.String(current_search_provider),3)</visible>
 					</item>
 					<item>
-						<label>Addons</label>
+						<label>$LOCALIZE[31339]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick>ActivateWindow(addonbrowser,addons://search/,return)</onclick>
 					</item>

@@ -90,14 +90,14 @@
 					<top>150</top>
 					<width>700</width>
 					<height>80</height>
-					<label>Last Focused Color: $INFO[Window(home).Property(LastFocusedColor)]</label>
+					<label>$LOCALIZE[31358] $INFO[Window(home).Property(LastFocusedColor)]</label>
 				</control>
 				<control type="label">
 					<left>300</left>
 					<top>200</top>
 					<width>700</width>
 					<height>80</height>
-					<label>Current Color: $INFO[Window(home).Property(listitem_color)]</label>
+					<label>$LOCALIZE[31359] $INFO[Window(home).Property(listitem_color)]</label>
 				</control> -->
 				<control type="image">
 					<left>70</left>

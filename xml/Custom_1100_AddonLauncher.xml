@@ -99,7 +99,7 @@
 							<property name="menu_id">$NUMBER[501]</property>
 						</item>
 						<item id="8">
-							<label>game</label>
+							<label>$LOCALIZE[31329]</label>
 							<visible>System.GetBool(gamesgeneral.enable)</visible>
 							<onclick>ActivateWindow(games,addons://sources/game/,return)</onclick>
 							<property name="id">game</property>
@@ -107,14 +107,14 @@
 							<property name="menu_id">$NUMBER[509]</property>
 						</item>
 						<item id="3">
-							<label>program</label>
+							<label>$LOCALIZE[31330]</label>
 							<onclick>ActivateWindow(programs,addons://sources/executable/,return)</onclick>
 							<property name="id">addons</property>
 							<property name="path">addons://sources/executable/</property>
 							<property name="menu_id">$NUMBER[502]</property>
 						</item>
 						<item id="4">
-							<label>android</label>
+							<label>$LOCALIZE[31331]</label>
 							<onclick>ActivateWindow(programs,androidapp://sources/apps/,return)</onclick>
 							<property name="id">android</property>
 							<property name="path">androidapp://sources/apps/</property>
@@ -122,7 +122,7 @@
 							<visible>System.Platform.Android</visible>
 						</item>
 						<item id="5">
-							<label>picture</label>
+							<label>$LOCALIZE[31332]</label>
 							<onclick>ActivateWindow(pictures,addons://sources/image/,return)</onclick>
 							<property name="id">pictures</property>
 							<property name="path">addons://sources/image/</property>

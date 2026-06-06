@@ -1213,7 +1213,7 @@
 						<!-- <control type="label">
 							<top>935</top>
 							<font>font27</font>
-							<label>Loading widgets...</label>
+							<label>$LOCALIZE[31357]</label>
 							<textcolor>darkgrey</textcolor>
 							<animation condition="Weather.IsFetched" effect="fade" start="100" end="0" time="500" delay="2000">Conditional</animation>
 						</control> -->

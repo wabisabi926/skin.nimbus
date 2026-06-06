@@ -947,3 +947,319 @@ msgstr ""
 msgctxt "#31611"
 msgid "System"
 msgstr ""
+
+msgctxt "#31200"
+msgid "Remake menus and widgets"
+msgstr "Remake menus and widgets"
+
+msgctxt "#31201"
+msgid "Set main menu path"
+msgstr "Set main menu path"
+
+msgctxt "#31202"
+msgid "Set widget"
+msgstr "Set widget"
+
+msgctxt "#31203"
+msgid "General configuration"
+msgstr "General configuration"
+
+msgctxt "#31204"
+msgid "Widget options"
+msgstr "Widget options"
+
+msgctxt "#31205"
+msgid "Customization"
+msgstr "Customization"
+
+msgctxt "#31206"
+msgid "Artwork display"
+msgstr "Artwork display"
+
+msgctxt "#31207"
+msgid "Ratings management"
+msgstr "Ratings management"
+
+msgctxt "#31208"
+msgid "Trailer setup"
+msgstr "Trailer setup"
+
+msgctxt "#31209"
+msgid "Search options"
+msgstr "Search options"
+
+msgctxt "#31210"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "#31290"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#31291"
+msgid "TV Shows"
+msgstr "TV Shows"
+
+msgctxt "#31292"
+msgid "Custom 1"
+msgstr "Custom 1"
+
+msgctxt "#31293"
+msgid "Custom 2"
+msgstr "Custom 2"
+
+msgctxt "#31294"
+msgid "Custom 3"
+msgstr "Custom 3"
+
+msgctxt "#31300"
+msgid "Open main menu"
+msgstr "Open main menu"
+
+msgctxt "#31301"
+msgid "Reset widget"
+msgstr "Reset widget"
+
+msgctxt "#31302"
+msgid "Both"
+msgstr "Both"
+
+msgctxt "#31303"
+msgid "Wrap to end"
+msgstr "Wrap to end"
+
+msgctxt "#31304"
+msgid "Director"
+msgstr "Director"
+
+msgctxt "#31305"
+msgid "Full genre"
+msgstr "Full genre"
+
+msgctxt "#31306"
+msgid "Studio"
+msgstr "Studio"
+
+msgctxt "#31307"
+msgid "Tagline"
+msgstr "Tagline"
+
+msgctxt "#31308"
+msgid "Default/UPPERCASE"
+msgstr "Default/UPPERCASE"
+
+msgctxt "#31309"
+msgid "lowercase"
+msgstr "lowercase"
+
+msgctxt "#31310"
+msgid "Capitalize"
+msgstr "Capitalize"
+
+msgctxt "#31311"
+msgid "Modular"
+msgstr "Modular"
+
+msgctxt "#31312"
+msgid "Next audio track"
+msgstr "Next audio track"
+
+msgctxt "#31313"
+msgid "Open audio settings"
+msgstr "Open audio settings"
+
+msgctxt "#31314"
+msgid "Next subtitle"
+msgstr "Next subtitle"
+
+msgctxt "#31315"
+msgid "Open subtitle settings"
+msgstr "Open subtitle settings"
+
+msgctxt "#31316"
+msgid "Scrollbar"
+msgstr "Scrollbar"
+
+msgctxt "#31317"
+msgid "Wall"
+msgstr "Wall"
+
+msgctxt "#31318"
+msgid "Play trailer"
+msgstr "Play trailer"
+
+msgctxt "#31319"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "#31320"
+msgid "Search window"
+msgstr "Search window"
+
+msgctxt "#31321"
+msgid "Search dialog"
+msgstr "Search dialog"
+
+msgctxt "#31322"
+msgid "Exit"
+msgstr "Exit"
+
+msgctxt "#31323"
+msgid "Open shutdown menu"
+msgstr "Open shutdown menu"
+
+msgctxt "#31324"
+msgid "One-click"
+msgstr "One-click"
+
+msgctxt "#31325"
+msgid "MDbList"
+msgstr "MDbList"
+
+msgctxt "#31326"
+msgid "Reload skin"
+msgstr "Reload skin"
+
+msgctxt "#31327"
+msgid "Skin settings"
+msgstr "Skin settings"
+
+msgctxt "#31328"
+msgid "Toggle debugging"
+msgstr "Toggle debugging"
+
+msgctxt "#31329"
+msgid "game"
+msgstr "game"
+
+msgctxt "#31330"
+msgid "program"
+msgstr "program"
+
+msgctxt "#31331"
+msgid "android"
+msgstr "android"
+
+msgctxt "#31332"
+msgid "picture"
+msgstr "picture"
+
+msgctxt "#31333"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "#31334"
+msgid "Anime"
+msgstr "Anime"
+
+msgctxt "#31335"
+msgid "Movie Collections"
+msgstr "Movie Collections"
+
+msgctxt "#31336"
+msgid "Actors/Actresses"
+msgstr "Actors/Actresses"
+
+msgctxt "#31337"
+msgid "Actors/Actresses (Movies)"
+msgstr "Actors/Actresses (Movies)"
+
+msgctxt "#31338"
+msgid "Actors/Actresses (TV Shows)"
+msgstr "Actors/Actresses (TV Shows)"
+
+msgctxt "#31339"
+msgid "Addons"
+msgstr "Addons"
+
+msgctxt "#31340"
+msgid "Nimbus is a light artwork centric skin that can be customized to suit various tastes.[CR][CR]After clicking OK on the button below, navigate to skin settings to set up main menu items/widgets and configure the skin to your likings. Every setting has a small help text at the bottom of the screen to help you understand how it works and what the setting does. You'll find other settings/config toggles in the View options panel in video windows.[CR][CR]Aside from setting the view type, there you can customize artwork style, clearlogo and artwork used. Please note that the views are auto locking so whenever you set a view it will be locked for the content type that you see in the View options panel.[CR][CR]Also, feel free to set different artwork/options for different content types (movies,tvshows) etc as Nimbus will remember your preferences for each content type in the video windows and home screen.[CR][CR]If you need to access this welcome screen again, you may do so in Skin settings » Extras."
+msgstr "Nimbus is a light artwork centric skin that can be customized to suit various tastes.[CR][CR]After clicking OK on the button below, navigate to skin settings to set up main menu items/widgets and configure the skin to your likings. Every setting has a small help text at the bottom of the screen to help you understand how it works and what the setting does. You'll find other settings/config toggles in the View options panel in video windows.[CR][CR]Aside from setting the view type, there you can customize artwork style, clearlogo and artwork used. Please note that the views are auto locking so whenever you set a view it will be locked for the content type that you see in the View options panel.[CR][CR]Also, feel free to set different artwork/options for different content types (movies,tvshows) etc as Nimbus will remember your preferences for each content type in the video windows and home screen.[CR][CR]If you need to access this welcome screen again, you may do so in Skin settings » Extras."
+
+msgctxt "#31341"
+msgid "Search results for:"
+msgstr "Search results for:"
+
+msgctxt "#31342"
+msgid "Click to cycle providers"
+msgstr "Click to cycle providers"
+
+msgctxt "#31343"
+msgid "Explore your past searches on the left, delve into TRAKT lists using the TRAKT button, or click the search icon to initiate a new search."
+msgstr "Explore your past searches on the left, delve into TRAKT lists using the TRAKT button, or click the search icon to initiate a new search."
+
+msgctxt "#31344"
+msgid "Enable studio logos in FlixPanel"
+msgstr "Enable studio logos in FlixPanel"
+
+msgctxt "#31345"
+msgid "Clear MDbList API Key"
+msgstr "Clear MDbList API Key"
+
+msgctxt "#31346"
+msgid "Clearlogo"
+msgstr "Clearlogo"
+
+msgctxt "#31347"
+msgid "Clearlogo (Auto info)"
+msgstr "Clearlogo (Auto info)"
+
+msgctxt "#31348"
+msgid "Clearlogo (Spine)"
+msgstr "Clearlogo (Spine)"
+
+msgctxt "#31349"
+msgid "Background blur"
+msgstr "Background blur"
+
+msgctxt "#31350"
+msgid "Artwork (Main)"
+msgstr "Artwork (Main)"
+
+msgctxt "#31351"
+msgid "Artwork (Items)"
+msgstr "Artwork (Items)"
+
+msgctxt "#31352"
+msgid "Layout"
+msgstr "Layout"
+
+msgctxt "#31353"
+msgid "On down action"
+msgstr "On down action"
+
+msgctxt "#31354"
+msgid "On right action"
+msgstr "On right action"
+
+msgctxt "#31355"
+msgid "Dim unfocused artwork"
+msgstr "Dim unfocused artwork"
+
+msgctxt "#31356"
+msgid "Auto info"
+msgstr "Auto info"
+
+msgctxt "#31357"
+msgid "Loading widgets..."
+msgstr "Loading widgets..."
+
+msgctxt "#31358"
+msgid "Last Focused Color:"
+msgstr "Last Focused Color:"
+
+msgctxt "#31359"
+msgid "Current Color:"
+msgstr "Current Color:"
+
+msgctxt "#31360"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#31361"
+msgid "Live TV"
+msgstr "Live TV"
+
+msgctxt "#31362"
+msgid "Background blur"
+msgstr "Background blur"

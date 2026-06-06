@@ -747,3 +747,319 @@ msgstr "系统"
 #~ msgctxt "#31138"
 #~ msgid "Player process info"
 #~ msgstr "播放器处理信息"
+
+msgctxt "#31200"
+msgid "Remake menus and widgets"
+msgstr "重新制作菜单和小部件"
+
+msgctxt "#31201"
+msgid "Set main menu path"
+msgstr "设置主菜单路径"
+
+msgctxt "#31202"
+msgid "Set widget"
+msgstr "设置小部件"
+
+msgctxt "#31203"
+msgid "General configuration"
+msgstr "通用配置"
+
+msgctxt "#31204"
+msgid "Widget options"
+msgstr "小部件选项"
+
+msgctxt "#31205"
+msgid "Customization"
+msgstr "自定义"
+
+msgctxt "#31206"
+msgid "Artwork display"
+msgstr "艺术显示"
+
+msgctxt "#31207"
+msgid "Ratings management"
+msgstr "评分管理"
+
+msgctxt "#31208"
+msgid "Trailer setup"
+msgstr "预告片设置"
+
+msgctxt "#31209"
+msgid "Search options"
+msgstr "搜索选项"
+
+msgctxt "#31210"
+msgid "Extras"
+msgstr "附加选项"
+
+msgctxt "#31290"
+msgid "Movies"
+msgstr "电影"
+
+msgctxt "#31291"
+msgid "TV Shows"
+msgstr "电视节目"
+
+msgctxt "#31292"
+msgid "Custom 1"
+msgstr "自定义 1"
+
+msgctxt "#31293"
+msgid "Custom 2"
+msgstr "自定义 2"
+
+msgctxt "#31294"
+msgid "Custom 3"
+msgstr "自定义 3"
+
+msgctxt "#31300"
+msgid "Open main menu"
+msgstr "打开主菜单"
+
+msgctxt "#31301"
+msgid "Reset widget"
+msgstr "重置小部件"
+
+msgctxt "#31302"
+msgid "Both"
+msgstr "两者"
+
+msgctxt "#31303"
+msgid "Wrap to end"
+msgstr "循环到末尾"
+
+msgctxt "#31304"
+msgid "Director"
+msgstr "导演"
+
+msgctxt "#31305"
+msgid "Full genre"
+msgstr "完整类型"
+
+msgctxt "#31306"
+msgid "Studio"
+msgstr "工作室"
+
+msgctxt "#31307"
+msgid "Tagline"
+msgstr "标语"
+
+msgctxt "#31308"
+msgid "Default/UPPERCASE"
+msgstr "默认/全大写"
+
+msgctxt "#31309"
+msgid "lowercase"
+msgstr "全小写"
+
+msgctxt "#31310"
+msgid "Capitalize"
+msgstr "首字母大写"
+
+msgctxt "#31311"
+msgid "Modular"
+msgstr "模块化"
+
+msgctxt "#31312"
+msgid "Next audio track"
+msgstr "下一个音轨"
+
+msgctxt "#31313"
+msgid "Open audio settings"
+msgstr "打开音频设置"
+
+msgctxt "#31314"
+msgid "Next subtitle"
+msgstr "下一个字幕"
+
+msgctxt "#31315"
+msgid "Open subtitle settings"
+msgstr "打开字幕设置"
+
+msgctxt "#31316"
+msgid "Scrollbar"
+msgstr "滚动条"
+
+msgctxt "#31317"
+msgid "Wall"
+msgstr "墙视图"
+
+msgctxt "#31318"
+msgid "Play trailer"
+msgstr "播放预告片"
+
+msgctxt "#31319"
+msgid "Information"
+msgstr "信息"
+
+msgctxt "#31320"
+msgid "Search window"
+msgstr "搜索窗口"
+
+msgctxt "#31321"
+msgid "Search dialog"
+msgstr "搜索对话框"
+
+msgctxt "#31322"
+msgid "Exit"
+msgstr "退出"
+
+msgctxt "#31323"
+msgid "Open shutdown menu"
+msgstr "打开关机菜单"
+
+msgctxt "#31324"
+msgid "One-click"
+msgstr "单击"
+
+msgctxt "#31325"
+msgid "MDbList"
+msgstr "MDbList"
+
+msgctxt "#31326"
+msgid "Reload skin"
+msgstr "重载皮肤"
+
+msgctxt "#31327"
+msgid "Skin settings"
+msgstr "皮肤设置"
+
+msgctxt "#31328"
+msgid "Toggle debugging"
+msgstr "切换调试"
+
+msgctxt "#31329"
+msgid "game"
+msgstr "游戏"
+
+msgctxt "#31330"
+msgid "program"
+msgstr "程序"
+
+msgctxt "#31331"
+msgid "android"
+msgstr "安卓"
+
+msgctxt "#31332"
+msgid "picture"
+msgstr "图片"
+
+msgctxt "#31333"
+msgid "Info"
+msgstr "信息"
+
+msgctxt "#31334"
+msgid "Anime"
+msgstr "动漫"
+
+msgctxt "#31335"
+msgid "Movie Collections"
+msgstr "电影合集"
+
+msgctxt "#31336"
+msgid "Actors/Actresses"
+msgstr "演员"
+
+msgctxt "#31337"
+msgid "Actors/Actresses (Movies)"
+msgstr "演员 (电影)"
+
+msgctxt "#31338"
+msgid "Actors/Actresses (TV Shows)"
+msgstr "演员 (电视剧)"
+
+msgctxt "#31339"
+msgid "Addons"
+msgstr "插件"
+
+msgctxt "#31340"
+msgid "Nimbus is a light artwork centric skin that can be customized to suit various tastes.[CR][CR]After clicking OK on the button below, navigate to skin settings to set up main menu items/widgets and configure the skin to your likings. Every setting has a small help text at the bottom of the screen to help you understand how it works and what the setting does. You'll find other settings/config toggles in the View options panel in video windows.[CR][CR]Aside from setting the view type, there you can customize artwork style, clearlogo and artwork used. Please note that the views are auto locking so whenever you set a view it will be locked for the content type that you see in the View options panel.[CR][CR]Also, feel free to set different artwork/options for different content types (movies,tvshows) etc as Nimbus will remember your preferences for each content type in the video windows and home screen.[CR][CR]If you need to access this welcome screen again, you may do so in Skin settings » Extras."
+msgstr "Nimbus 是一个以图片为中心设计的轻量级皮肤，可以自定义以适应不同口味。[CR][CR]点击下方按钮确定后，请前往皮肤设置来设置主菜单项目/小部件，并根据您的喜好配置皮肤。每个设置下方都有帮助文字，帮助您了解其功能和用法。您可以在视频窗口的视图选项面板中找到其他设置/配置开关。[CR][CR]除了设置视图类型，您还可以在那里自定义图片样式、标志图和使用的图片。请注意，视图会自动锁定，因此每当您设置一个视图时，它将被锁定为您在视图选项面板中看到的内容类型。[CR][CR]此外，您可以自由地为不同内容类型（电影、电视剧等）设置不同的图片/选项，因为 Nimbus 会记住您在视频窗口和主屏幕中每个内容类型的偏好设置。[CR][CR]如果您需要再次访问此欢迎界面，可以在皮肤设置 » 附加选项中找到。"
+
+msgctxt "#31341"
+msgid "Search results for:"
+msgstr "搜索结果："
+
+msgctxt "#31342"
+msgid "Click to cycle providers"
+msgstr "点击切换供应商"
+
+msgctxt "#31343"
+msgid "Explore your past searches on the left, delve into TRAKT lists using the TRAKT button, or click the search icon to initiate a new search."
+msgstr "在左侧浏览您过去的搜索，使用 TRAKT 按钮浏览 TRAKT 列表，或点击搜索图标开始新搜索。"
+
+msgctxt "#31344"
+msgid "Enable studio logos in FlixPanel"
+msgstr "在 FlixPanel 中启用工作室图标"
+
+msgctxt "#31345"
+msgid "Clear MDbList API Key"
+msgstr "清除 MDbList API 密钥"
+
+msgctxt "#31346"
+msgid "Clearlogo"
+msgstr "标志图"
+
+msgctxt "#31347"
+msgid "Clearlogo (Auto info)"
+msgstr "标志图 (自动信息)"
+
+msgctxt "#31348"
+msgid "Clearlogo (Spine)"
+msgstr "标志图 (边缘)"
+
+msgctxt "#31349"
+msgid "Background blur"
+msgstr "背景模糊"
+
+msgctxt "#31350"
+msgid "Artwork (Main)"
+msgstr "图片 (主)"
+
+msgctxt "#31351"
+msgid "Artwork (Items)"
+msgstr "图片 (项目)"
+
+msgctxt "#31352"
+msgid "Layout"
+msgstr "布局"
+
+msgctxt "#31353"
+msgid "On down action"
+msgstr "下移动作"
+
+msgctxt "#31354"
+msgid "On right action"
+msgstr "右移动作"
+
+msgctxt "#31355"
+msgid "Dim unfocused artwork"
+msgstr "淡化未聚焦图片"
+
+msgctxt "#31356"
+msgid "Auto info"
+msgstr "自动信息"
+
+msgctxt "#31357"
+msgid "Loading widgets..."
+msgstr "加载小部件..."
+
+msgctxt "#31358"
+msgid "Last Focused Color:"
+msgstr "上次聚焦颜色："
+
+msgctxt "#31359"
+msgid "Current Color:"
+msgstr "当前颜色："
+
+msgctxt "#31360"
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "#31361"
+msgid "Live TV"
+msgstr "直播电视"
+
+msgctxt "#31362"
+msgid "Background blur"
+msgstr "背景模糊"

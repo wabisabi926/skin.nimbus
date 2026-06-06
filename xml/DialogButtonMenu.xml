@@ -28,17 +28,17 @@
 				<include>ButtonMenuList</include>
 				<content>
 					<item>
-						<label>Reload skin</label>
+						<label>$LOCALIZE[31326]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick>ReloadSkin()</onclick>
 					</item>
 					<item>
-						<label>Skin settings</label>
+						<label>$LOCALIZE[31327]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick>ActivateWindow(SkinSettings.xml)</onclick>
 					</item>
 					<item>
-						<label>Toggle debugging</label>
+						<label>$LOCALIZE[31328]</label>
 						<onclick>Dialog.Close(all)</onclick>
 						<onclick>Skin.ToggleDebug()</onclick>
 					</item>

@@ -465,14 +465,14 @@
 				</visible>
 			</control>
 			<control type="radiobutton" id="6055">
-				<label>Clearlogo (Auto info)</label>
+				<label>$LOCALIZE[31346]</label>
 				<include>MediaMenuItemsCommon</include>
 				<onclick>Skin.ToggleSetting(Enable.AutoInfoClearlogo)</onclick>
 				<selected>Skin.HasSetting(Enable.AutoInfoClearlogo)</selected>
 				<visible>Control.IsVisible(51) + [Container.Content(movies) | Container.Content(tvshows) | Container.Content(seasons) | Container.Content(episodes)]</visible>
 			</control>
 			<control type="radiobutton" id="6056">
-				<label>Clearlogo (Spine)</label>
+				<label>$LOCALIZE[31348]</label>
 				<include>MediaMenuItemsCommon</include>
 				<onclick>Skin.ToggleSetting(Enable.SpineClearlogo)</onclick>
 				<selected>Skin.HasSetting(Enable.SpineClearlogo)</selected>
@@ -487,20 +487,20 @@
 			</control>
 			<!-- <control type="radiobutton" id="6058">
 				<include>MediaMenuItemsCommon</include>
-				<label>Background blur</label>
+				<label>$LOCALIZE[31349]</label>
 				<onclick>Skin.ToggleSetting(Enable.BackgroundBlur)</onclick>
 				<selected>Skin.HasSetting(Enable.BackgroundBlur)</selected>
 			</control> -->
 			<control type="button" id="6058">
 				<include>MediaMenuItemsCommon</include>
-				<label>Artwork (Main)</label>
+				<label>$LOCALIZE[31350]</label>
 				<label2>[B]$VAR[FanartSettingVar][/B]</label2>
 				<onclick>$VAR[FanartToggleVar]</onclick>
 				<visible>[Container.Content(movies) | Container.Content(tvshows) | Container.Content(seasons) | Container.Content(episodes)] + [Control.IsVisible(54) | Control.IsVisible(55) | Control.IsVisible(56)]</visible>
 			</control>
 			<control type="button" id="6059">
 				<include>MediaMenuItemsCommon</include>
-				<label>Layout</label>
+				<label>$LOCALIZE[31352]</label>
 				<label2>[B]$VAR[ListArtworkSettingVar][/B]</label2>
 				<onclick>$VAR[ListArtworkToggleVar]</onclick>
 				<visible>Control.IsVisible(50) + [Container.Content(movies) | Container.Content(tvshows) | Container.Content(seasons) | Container.Content(episodes) | Container.Content(videos) | Container.Content(addons) | Container.Content(files) | Container.Content(favourites) | Container.Content]</visible>
@@ -530,21 +530,21 @@
 			</control>
 			<control type="button" id="6062">
 				<include>MediaMenuItemsCommon</include>
-				<label>Artwork (Items)</label>
+				<label>$LOCALIZE[31351]</label>
 				<label2>[B]$VAR[ItemFanartSettingVar][/B]</label2>
 				<onclick>$VAR[ItemFanartToggleVar]</onclick>
 				<visible>Control.IsVisible(55) + [Container.Content(movies) | Container.Content(tvshows) | Container.Content(seasons)]</visible>
 			</control>
 			<control type="button" id="6063">
 				<include>MediaMenuItemsCommon</include>
-				<label>On down action</label>
+				<label>$LOCALIZE[31353]</label>
 				<label2>[B]$VAR[OnDownSettingVar.MovieTV][/B]</label2>
 				<onclick>$VAR[OnDownToggleVar.MovieTV]</onclick>
 				<visible>[Control.IsVisible(54) | Control.IsVisible(55)] + [[Container.Content(movies) + !String.StartsWith(Container.PluginName,plugin.video.the-loop)] | Container.Content(tvshows)]</visible>
 			</control>
 			<control type="button" id="6064">
 				<include>MediaMenuItemsCommon</include>
-				<label>On down action</label>
+				<label>$LOCALIZE[31353]</label>
 				<label2>[B]$VAR[OnDownSettingVar.Other][/B]</label2>
 				<onclick>$VAR[OnDownToggleVar.Other]</onclick>
 				<visible>[Control.IsVisible(54) | Control.IsVisible(55)] + [Container.Content(seasons) | Container.Content(episodes)]</visible>
@@ -564,14 +564,14 @@
 				<visible>[Control.IsVisible(54) | Control.IsVisible(55)] + String.IsEqual(Skin.String(OnDownSetting.Other),1) + [Container.Content(seasons) | Container.Content(episodes)]</visible>
 			</control>
 			<control type="radiobutton" id="6067">
-				<label>Dim unfocused artwork</label>
+				<label>$LOCALIZE[31355]</label>
 				<include>MediaMenuItemsCommon</include>
 				<onclick>Skin.ToggleSetting(Disable.PosterFlowArtworkDimming)</onclick>
 				<selected>!Skin.HasSetting(Disable.PosterFlowArtworkDimming)</selected>
 				<visible>Control.IsVisible(51) + [Container.Content(movies) | Container.Content(tvshows) | Container.Content(seasons) | Container.Content(episodes)]</visible>
 			</control>
 			<control type="radiobutton" id="6068">
-				<label>Auto info</label>
+				<label>$LOCALIZE[31356]</label>
 				<include>MediaMenuItemsCommon</include>
 				<onclick>Skin.ToggleSetting(Disable.PosterFlowAutoInfo)</onclick>
 				<selected>!Skin.HasSetting(Disable.PosterFlowAutoInfo)</selected>
@@ -586,28 +586,28 @@
 			</control>
 			<control type="button" id="6070">
 				<include>MediaMenuItemsCommon</include>
-				<label>On down action</label>
+				<label>$LOCALIZE[31353]</label>
 				<label2>[B]$VAR[PosterFlowOnDownSettingVar.MovieTV][/B]</label2>
 				<onclick>$VAR[PosterFlowOnDownToggleVar.MovieTV]</onclick>
 				<visible>Control.IsVisible(51) + [[Container.Content(movies) + !String.StartsWith(Container.PluginName,plugin.video.the-loop)] | Container.Content(tvshows)]</visible>
 			</control>
 			<control type="button" id="6071">
 				<include>MediaMenuItemsCommon</include>
-				<label>On down action</label>
+				<label>$LOCALIZE[31353]</label>
 				<label2>[B]$VAR[PosterFlowOnDownSettingVar.Other][/B]</label2>
 				<onclick>$VAR[PosterFlowOnDownToggleVar.Other]</onclick>
 				<visible>Control.IsVisible(51) + [Container.Content(seasons) | Container.Content(episodes)]</visible>
 			</control>
 			<control type="button" id="6072">
 				<include>MediaMenuItemsCommon</include>
-				<label>On right action</label>
+				<label>$LOCALIZE[31354]</label>
 				<label2>[B]$VAR[OnRightSettingVar.MovieTV][/B]</label2>
 				<onclick>$VAR[OnRightToggleVar.MovieTV]</onclick>
 				<visible>Control.IsVisible(50) + [[Container.Content(movies) + !String.StartsWith(Container.PluginName,plugin.video.the-loop)] | Container.Content(tvshows)]</visible>
 			</control>
 			<control type="button" id="6073">
 				<include>MediaMenuItemsCommon</include>
-				<label>On right action</label>
+				<label>$LOCALIZE[31354]</label>
 				<label2>[B]$VAR[OnRightSettingVar.Other][/B]</label2>
 				<onclick>$VAR[OnRightToggleVar.Other]</onclick>
 				<visible>Control.IsVisible(50) + [Container.Content(seasons) | Container.Content(episodes)]</visible>

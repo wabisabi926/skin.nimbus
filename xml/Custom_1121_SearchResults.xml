@@ -95,7 +95,7 @@
 				<height>40</height>
 				<font>font27</font>
 				<textcolor>unfocused_text</textcolor>
-				<label>Search results for: [B]$INFO[Window(home).Property(nimbus.search.input)][/B]</label>
+				<label>$LOCALIZE[31341] [B]$INFO[Window(home).Property(nimbus.search.input)][/B]</label>
 			</control>
 			<control type="group">
 				<depth>DepthContentPanel</depth>
@@ -222,7 +222,7 @@
 							<align>left</align>
 							<aligny>center</aligny>
 							<textcolor>grey</textcolor>
-							<label>Click to cycle providers</label>
+							<label>$LOCALIZE[31342]</label>
 							<visible>Control.HasFocus(801)</visible>
 						</control>
 					</control>
@@ -266,7 +266,7 @@
 					<font>font14</font>
 					<textcolor>unfocused_text</textcolor>
 					<wrapmultiline>true</wrapmultiline>
-					<label>Explore your past searches on the left, delve into TRAKT lists using the TRAKT button, or click the search icon to initiate a new search.</label>
+					<label>$LOCALIZE[31343]</label>
 				</control>
 			</control> -->
 		</control>
